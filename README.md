@@ -1,5 +1,4 @@
-# iFlicks
-# Week  - iFlicks
+# Week 1 - iFlicks
 
 iFlicks is an app to view movies now in theaters
 
